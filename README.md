@@ -1,2 +1,2 @@
-# Aashish28.github.io
-My first github page
+# My first github page
+You can get all the updates here!
