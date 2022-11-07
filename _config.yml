@@ -1,6 +1,6 @@
 title: Ashish Ahire's homepage
 description: Bookmark this to keep an eye on my project updates!
 theme: jekyll-theme-minimal
-logo: logo.png
+logo: /logo.png
 show_downloads: false
 google_analytics:
